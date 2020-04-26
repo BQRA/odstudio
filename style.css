@@ -1,0 +1,33 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background: url(bg.png) no-repeat center top;
+    background-size: cover;
+    font-family: 'DM Serif Display';
+}
+
+.text-center {
+    padding-top: 180px;
+    text-align: center;
+}
+
+.overline {
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    letter-spacing: 10px;
+    font-weight: 400;
+}
+
+.title {
+    font-size: 56px;
+    line-height: 64px;
+    color: #9789A9;
+    margin-top: 24px;
+    font-weight: 200;
+}
